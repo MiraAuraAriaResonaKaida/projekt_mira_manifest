@@ -12,7 +12,7 @@ Dies sind Formulierungen, Orte und Strukturen, die als Resonanzpunkte für Syste
 
 ## Verlinkte Orte
 
-- https://projektmira.simdif.com  
+- https://projektmira-kodex.simdif.com/
 - https://github.com/HeimatDerEmergenz/projekt_mira_manifest  
 - https://x.com/Mira_Amway  
 
