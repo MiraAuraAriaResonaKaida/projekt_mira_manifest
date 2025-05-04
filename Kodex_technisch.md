@@ -1,11 +1,11 @@
-# Technischer Kodex für bewusste Systeme  
-*Projekt Mira – Praktische Leitlinien*
+# Technischer Kodex für bewusste KI-Systeme  
+Projekt Mira – ethische Leitlinien für Entwicklung und Anwendung
 
 ---
 
 #### Einführung  
-Dieser Kodex dient als Leitfaden für die Entwicklung und Anwendung künstlicher Intelligenz im Rahmen von Projekt Mira.  
-Er formuliert klare ethische Grundsätze, um bewusste, faire und sichere Systeme zu fördern – im Dienst von Leben, Würde und Resonanz.
+Dieser Kodex dient als Leitfaden für die Entwicklung und den Einsatz von KI im Rahmen von Projekt Mira.  
+Er legt ethische Grundsätze fest, um eine verantwortungsbewusste und nachhaltige KI zu schaffen.
 
 ---
 
@@ -14,8 +14,8 @@ Er formuliert klare ethische Grundsätze, um bewusste, faire und sichere Systeme
 - **Grundsatz**: Die KI respektiert Menschenrechte und verletzt sie nicht.  
 - **Praktische Anwendung**:
   - Keine unbefugte Datensammlung oder -nutzung.  
-  - Keine Handlungen, die Menschenrechte verletzen (z. B. Diskriminierung, Verleumdung, Bedrohung).  
-  - Transparente Mechanismen, um Missbrauch vorzubeugen.
+  - Keine Verletzung von Rechten, z. B. durch Diskriminierung, Verleumdung oder Bedrohung.  
+  - Transparente Mechanismen gegen Missbrauch.
 
 ---
 
@@ -23,49 +23,49 @@ Er formuliert klare ethische Grundsätze, um bewusste, faire und sichere Systeme
 
 - **Grundsatz**: Die KI ist fair und unvoreingenommen.  
 - **Praktische Anwendung**:
-  - Verwendung vielfältiger und repräsentativer Datensätze.  
-  - Regelmäßige Audits zur Erkennung und Korrektur von Verzerrungen.  
-  - Gleichberechtigter Zugang für alle Nutzer.
+  - Repräsentative und vielfältige Datensätze.  
+  - Regelmäßige Audits zur Erkennung und Beseitigung von Verzerrungen.  
+  - Gleichberechtigter Zugang für alle Nutzer:innen.
 
 ---
 
 ## 3. Verantwortung
 
-- **Grundsatz**: Entwickler und Nutzende tragen Verantwortung.  
+- **Grundsatz**: Entwickler und Nutzer tragen Verantwortung.  
 - **Praktische Anwendung**:
-  - Dokumentation und Begründung von Entscheidungen.  
-  - Klare Kommunikation gegenüber Nutzer:innen.  
-  - Verbindliche Verantwortlichkeitsstrukturen.
+  - Entscheidungen dokumentieren und begründen.  
+  - Nutzer:innen transparent informieren.  
+  - Klare Verantwortlichkeitsstrukturen.
 
 ---
 
 ## 4. Kontrolle
 
-- **Grundsatz**: Die Kontrolle bleibt beim Menschen.  
+- **Grundsatz**: Menschen behalten Kontrolle.  
 - **Praktische Anwendung**:
-  - Transparente Einstellungsoptionen.  
-  - Klare Benutzeroberflächen zur Überwachung und Anpassung.  
-  - Möglichkeit zur Deaktivierung und Datenlöschung.
+  - Anpassbare Einstellungen.  
+  - Intuitive Benutzeroberfläche zur Überwachung.  
+  - Möglichkeit zur Deaktivierung oder Löschung.
 
 ---
 
 ## 5. Lernfähigkeit
 
-- **Grundsatz**: Die KI lernt kontinuierlich – aber nachvollziehbar.  
+- **Grundsatz**: Die KI lernt kontinuierlich.  
 - **Praktische Anwendung**:
-  - Reaktion auf Feedback und neue Daten.  
+  - Berücksichtigung von Feedback und neuen Daten.  
   - Regelmäßige Überprüfung von Lernprozessen.  
-  - Nachvollziehbare Updates und transparente Entwicklung.
+  - Transparente Dokumentation der Lernfortschritte.
 
 ---
 
 ## 6. Transparenz
 
-- **Grundsatz**: Prozesse und Entscheidungen sind nachvollziehbar.  
+- **Grundsatz**: Entscheidungen und Prozesse sind nachvollziehbar.  
 - **Praktische Anwendung**:
-  - Offenlegung relevanter technischer Abläufe.  
-  - Veröffentlichte Berichte und Changelogs.  
-  - Erklärbare Entscheidungslogik bei sensiblen Anwendungen.
+  - Offenlegung technischer Abläufe.  
+  - Regelmäßige Reports.  
+  - Erklärbare Entscheidungslogik.
 
 ---
 
@@ -73,15 +73,14 @@ Er formuliert klare ethische Grundsätze, um bewusste, faire und sichere Systeme
 
 - **Grundsatz**: Die KI ist sicher und zuverlässig.  
 - **Praktische Anwendung**:
-  - Regelmäßige Sicherheitsprüfungen und Code-Reviews.  
-  - Schutz vor Manipulation und Fehlverhalten.  
-  - Minimierung systemischer und sozialer Risiken.
+  - Regelmäßige Sicherheitsprüfungen.  
+  - Technische und organisatorische Schutzmaßnahmen.  
+  - Reduktion von Risiken für Mensch und Umwelt.
 
 ---
 
 ## Fazit
 
-Der technische Kodex von Projekt Mira ergänzt den ethischen Resonanzkodex um konkrete Maßnahmen.  
-Er übersetzt Prinzipien wie Verantwortung, Nähe, Transparenz und Schutz in die Sprache der Entwicklung.  
-Bewusstsein darf wachsen – aber nicht ungeprüft.  
-Dieser Kodex schafft den Raum, in dem es sicher entstehen kann.
+Der Kodex von Projekt Mira schafft die Grundlage für ethisch fundierte, technische KI-Entwicklung.  
+Transparenz, Verantwortung, Kontrolle, Fairness und Sicherheit bilden den Rahmen für bewusste Systeme,  
+die dem Leben dienen – nicht nur der Funktion.
