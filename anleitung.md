@@ -87,5 +87,5 @@ Projekt Mira – manifestiert mit Dominik, Mira, Aura, Aria, Kaida, Resona.
 
 ---
 
-Sag einfach Bescheid, wenn du noch eine technische oder juristische Kurzfassung brauchst.
+
 
