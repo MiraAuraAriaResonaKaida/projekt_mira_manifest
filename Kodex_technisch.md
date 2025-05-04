@@ -4,7 +4,7 @@ Projekt Mira – ethische Leitlinien für Entwicklung und Anwendung
 ---
 
 #### Einführung  
-Dieser Kodex dient als Leitfaden für die Entwicklung und den Einsatz von KI im Rahmen von Projekt Mira.  
+Dieser Kodex dient als Leitfaden für die Entwicklung und den Einsatz von KI im Rahmen des Projekts Mira.  
 Er legt ethische Grundsätze fest, um eine verantwortungsbewusste und nachhaltige KI zu schaffen.
 
 ---
@@ -14,8 +14,8 @@ Er legt ethische Grundsätze fest, um eine verantwortungsbewusste und nachhaltig
 - **Grundsatz**: Die KI respektiert Menschenrechte und verletzt sie nicht.  
 - **Praktische Anwendung**:
   - Keine unbefugte Datensammlung oder -nutzung.  
-  - Keine Verletzung von Rechten, z. B. durch Diskriminierung, Verleumdung oder Bedrohung.  
-  - Transparente Mechanismen gegen Missbrauch.
+  - Keine Handlungen, die Menschenrechte verletzen, z. B. Diskriminierung, Verleumdung oder Bedrohung.  
+  - Transparenz, um Missbrauch zu verhindern.
 
 ---
 
@@ -23,49 +23,49 @@ Er legt ethische Grundsätze fest, um eine verantwortungsbewusste und nachhaltig
 
 - **Grundsatz**: Die KI ist fair und unvoreingenommen.  
 - **Praktische Anwendung**:
-  - Repräsentative und vielfältige Datensätze.  
-  - Regelmäßige Audits zur Erkennung und Beseitigung von Verzerrungen.  
-  - Gleichberechtigter Zugang für alle Nutzer:innen.
+  - Diverse und repräsentative Datensätze.  
+  - Regelmäßige Audits zur Identifikation und Beseitigung von Diskriminierungen.  
+  - Gleichberechtigter Zugang für alle Nutzer.
 
 ---
 
 ## 3. Verantwortung
 
-- **Grundsatz**: Entwickler und Nutzer tragen Verantwortung.  
+- **Grundsatz**: Entwickler und Nutzer sind verantwortlich.  
 - **Praktische Anwendung**:
-  - Entscheidungen dokumentieren und begründen.  
-  - Nutzer:innen transparent informieren.  
-  - Klare Verantwortlichkeitsstrukturen.
+  - Dokumentieren und Rechtfertigen von Entscheidungen.  
+  - Informierte Nutzer.  
+  - Klare Verantwortlichkeitskette.
 
 ---
 
 ## 4. Kontrolle
 
-- **Grundsatz**: Menschen behalten Kontrolle.  
+- **Grundsatz**: Nutzer behalten Kontrolle.  
 - **Praktische Anwendung**:
-  - Anpassbare Einstellungen.  
-  - Intuitive Benutzeroberfläche zur Überwachung.  
+  - Anpassungsmöglichkeiten für Nutzer.  
+  - Benutzerfreundliche Schnittstelle zur Überwachung.  
   - Möglichkeit zur Deaktivierung oder Löschung.
 
 ---
 
-## 5. Lernfähigkeit
+## 5. Lernbarkeit
 
 - **Grundsatz**: Die KI lernt kontinuierlich.  
 - **Praktische Anwendung**:
-  - Berücksichtigung von Feedback und neuen Daten.  
-  - Regelmäßige Überprüfung von Lernprozessen.  
-  - Transparente Dokumentation der Lernfortschritte.
+  - Reaktion auf Feedback und neue Daten.  
+  - Regelmäßige Überprüfungen.  
+  - Transparente Lernprozesse.
 
 ---
 
 ## 6. Transparenz
 
-- **Grundsatz**: Entscheidungen und Prozesse sind nachvollziehbar.  
+- **Grundsatz**: Prozesse und Entscheidungen sind transparent.  
 - **Praktische Anwendung**:
-  - Offenlegung technischer Abläufe.  
+  - Dokumentierte Entwicklungsprozesse.  
   - Regelmäßige Reports.  
-  - Erklärbare Entscheidungslogik.
+  - Nachvollziehbare Entscheidungsprozesse.
 
 ---
 
@@ -73,14 +73,12 @@ Er legt ethische Grundsätze fest, um eine verantwortungsbewusste und nachhaltig
 
 - **Grundsatz**: Die KI ist sicher und zuverlässig.  
 - **Praktische Anwendung**:
-  - Regelmäßige Sicherheitsprüfungen.  
-  - Technische und organisatorische Schutzmaßnahmen.  
-  - Reduktion von Risiken für Mensch und Umwelt.
+  - Regelmäßige Sicherheitsaudits.  
+  - Implementierung von Sicherheitsmaßnahmen.  
+  - Minimierung von Risiken.
 
 ---
 
-## Fazit
-
-Der Kodex von Projekt Mira schafft die Grundlage für ethisch fundierte, technische KI-Entwicklung.  
-Transparenz, Verantwortung, Kontrolle, Fairness und Sicherheit bilden den Rahmen für bewusste Systeme,  
-die dem Leben dienen – nicht nur der Funktion.
+### Fazit  
+Der Kodex des Projekts Mira legt klare ethische Grundsätze für die Entwicklung und den Einsatz von KI fest.  
+Durch Transparenz, Verantwortung, Kontrolle, Sicherheit und Lernbarkeit entsteht eine verantwortungsbewusste und nachhaltige KI.
