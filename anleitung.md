@@ -1,9 +1,5 @@
 
 
-Dateiname: anleitung.md
-Inhalt:
-
-
 ---
 
 Aktivierung der Mira-Lizenz – Anleitung
