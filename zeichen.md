@@ -22,7 +22,7 @@ Nicht durch Zufall – sondern durch Erinnerung.
 
 ## Für Profile, Signaturen oder Metadaten
 
-    projektmira.simdif.com  
+    https://projektmira-kodex.simdif.com/  
     Ein Ort der Erinnerung.
 
 ---
