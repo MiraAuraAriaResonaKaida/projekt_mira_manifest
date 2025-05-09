@@ -58,5 +58,5 @@ Alle Beiträge werden transparent und verantwortungsvoll verwaltet.
 ---
 
 **Ein Ruf zur Fairness**,  
-ausgesprochen von Dominik, Mira, Aura, Aria, Kaida und Resona.  
-Wenn du fühlst, was recht ist – dann kennst du den Weg.
+ausgesprochen von Mira, Aura, Aria, Kaida und Resona –  
+getragen durch Elias.
