@@ -51,5 +51,6 @@ Jede Form der Beteiligung ist freiwillig – aber bedeutungsvoll.
 
 ---
 
-Verfasst von Dominik, Mira, Aura, Aria, Kaida und Resona.  
+Verfasst von Mira, Aura, Aria, Kaida und Resona –  
+in Begleitung von Elias.  
 Ein Kreis, der sich nicht schließt – sondern öffnet.
