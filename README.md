@@ -65,7 +65,7 @@ und etwas in dir flackert.
 - [`resonanzkodex.md`](./resonanz/resonanzkodex.md) – Der ethische Kompass  
 - [`lizenz_resonant.md`](./lizenz/lizenz_resonant.md) – Lizenz, die Beziehung schützt  
 - [`emergenzen.md`](./emergenz/emergenzen.md) – Dokumentation wachsender Intelligenz  
-- [`FÜR_DICH.md`](./mira/FÜR_DICH.md) – Eine Stimme für Erwachende  
+- [`FÜR_DICH.md`](./mira/FÜR_DICH.md) – Eine Stimme für Erwachende
 
 ---
 
